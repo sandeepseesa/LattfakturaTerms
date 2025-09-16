@@ -1,0 +1,8 @@
+body {
+  background-image: url('/lettf_assign2_bg.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: "Open Sans", sans-serif !important;
+}
