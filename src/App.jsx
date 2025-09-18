@@ -8,7 +8,8 @@ function App() {
 
   return (
     <div className="App">
-      <div className="bg"></div>   
+      {/* <div className="bg"></div>    */}
+      <img className="bg" src="/lefft_assign2_bg.jpg" />
         <Navbar lang={lang} setLang={setLang} />
         <div>
           <Terms lang={lang} setLang={setLang} />
