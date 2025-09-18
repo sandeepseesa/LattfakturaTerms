@@ -5,7 +5,7 @@
 
 .bg{
   position: fixed;
-  inset: -6vh -3vw -6vh -3vw;
+  inset: 0;
   z-index: -1;
   width: 100%;
   height: 100%;
@@ -15,4 +15,5 @@
   background-repeat: no-repeat;
   will-change: transform;
   transform: translateZ(0) scale(1.02);
+  pointer-events: none;
 } 
