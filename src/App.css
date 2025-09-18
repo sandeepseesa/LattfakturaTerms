@@ -7,6 +7,8 @@
   position: fixed;
   inset: 0;
   z-index: -1;
+  width: 100%;
+  height: 100%;
   background-image: url('/lettf_assign2_bg.jpg');
   background-size: cover;
   background-position: center;
